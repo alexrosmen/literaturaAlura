@@ -1,4 +1,4 @@
-# LiterAlura
+# LiteraturaAlura
 LiterAlura es una aplicación de gestión de libros que permite buscar, registrar y listar libros y autores utilizando datos de la API de Gutendex. 
 La aplicación ofrece funcionalidades como búsqueda de libros por título, listado de libros y autores registrados, autores vivos en un año determinado, libros por idioma, top 10 de libros más descargados y estadísticas de descargas.
 
